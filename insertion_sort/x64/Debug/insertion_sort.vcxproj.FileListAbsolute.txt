@@ -1,0 +1,1 @@
+C:\Users\mates\informatika\cpp\insertion_sort\x64\Debug\insertion_sort.exe
